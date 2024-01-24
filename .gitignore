@@ -1,0 +1,4 @@
+.clwb
+bazel-*
+.idea
+.DS_Store
